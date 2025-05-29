@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    background-color: bisque;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 10px;
+    height: 800px;
+    width: 1300px;
+    
+
+}
+.info{
+    background-color: aquamarine;
+    border-radius: 20px;
+    padding: 10px;
+}
+.img{
+    width: px;
+    height: px;
+    
+    
+    
+}

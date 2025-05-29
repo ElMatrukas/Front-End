@@ -1,0 +1,33 @@
+.container{    
+    display: flex;
+    flex-wrap: nowrap;
+    align-content: flex-start;
+    gap: 12px;
+    justify-content: space-evenly;
+    margin: 20px;
+    background-color: bisque;
+    border-radius: 20px;
+    padding: 15px;
+}
+
+.tarjeta-1{
+    background-color: aquamarine;
+    width: 300px;
+    height: 250px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.tarjeta-2{
+    background-color: aquamarine;
+    width: 300px;
+    height: 250px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.tarjeta-3{
+    background-color: aquamarine;
+    width: 300px;
+    height: 250px;
+    border-radius: 20px;
+    padding: 10px;
+}

@@ -1,0 +1,19 @@
+.ficha_2{
+    background-color: rgb(9, 197, 197);
+    padding: 20px;
+    border-radius: 15px;
+    
+}
+.ficha_2 h1{
+    text-align: center;
+}
+.ficha_2 img{
+    width: 400px;
+    background-position:center ;  
+    margin-left: 450px;
+    margin-right: 450px;  
+}
+.ficha_2 table{
+    width: 700px;
+    border: 1px solid black;
+}

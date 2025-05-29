@@ -1,0 +1,87 @@
+* {
+    margin: 2;
+    background-color: rgb(155, 179, 234);
+    text-align: justify;     
+    background-color: #ccc;
+    
+    
+}
+article h2{
+    font-size: 32px;
+    
+    
+}
+table{  
+    font-size: 20px; 
+    border-radius: 10px;
+    width: 20%;
+    margin-top: 20px; 
+    border-color: rgb(156, 144, 129);   
+    text-align: left;  
+}
+tr th{
+    padding: 5px;
+    border-radius: 10px;
+    border-color: rgb(156, 144, 129);
+    
+}
+.Bibliografia{
+    width: 600px;
+    border: 1px solid ;
+    border-radius: 15px;
+    padding: 10px;
+    text-align: justify;
+    background-color: rgb(156, 144, 129);
+}
+button{
+    padding: 2px;
+    font-size: medium;
+    background-color: rgb(156, 144, 129);
+    border-radius: 10px;
+}
+input{
+    width: 400px;
+    border: 1px solid #000000;
+    font-size: large;
+    background-color: rgb(156, 144, 129);
+    border-radius: 10px;
+    
+}
+section article{
+    font-size: large;
+}
+h3{
+    font-size: 20px;
+}
+label{
+    font-size: 20px;
+}
+p{
+    font-family: sans-serif;
+}
+h1{
+    padding: 10px;
+}    
+.Habilidades h2{
+    background-color: rgb(156, 144, 129);
+    text-align: left;
+
+}
+.Habilidades ul{
+    padding-left: 30px;
+    margin-bottom: 20px;
+    background-color: rgb(156, 144, 129);
+    border: 1;
+    text-align: left;
+     
+}
+.Habilidades li{
+    font-size: large;
+    text-align: left;
+    background-color: rgb(156, 144, 129);
+}
+.Habilidades{
+    width: 200px;
+    
+    
+}

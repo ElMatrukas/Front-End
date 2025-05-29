@@ -1,0 +1,20 @@
+.ficha_3{
+    background-color: aqua;
+    border-radius: 15px;
+    margin: 20px;
+    width: 900px;
+}
+.ficha_3 img{
+    width: 200px;
+    margin: 10px;
+    padding: 1px;
+    border-radius: 15px;
+}
+.a3{
+    width: 300px;
+    height: 134px;
+}
+.a4{
+    width: 300px;
+    height: 134px;
+}
