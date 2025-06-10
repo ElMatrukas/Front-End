@@ -10,5 +10,5 @@ if (cuentaExiste || inicioSesion && cuentaVerificada) {
 if (!cuentaVerificada) {
     console.log("necesitas verificar tu cuenta para acceder");   
 } else {
-    console.log("ya verificaste tu cuenta");
+    console.log("Bienvenido ya puedes acceder");
 }
